@@ -221,4 +221,3 @@ var enemyInfo = [
 ];
 
 startGame();
-
